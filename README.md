@@ -1,4 +1,4 @@
-# Unfinished Projects
- A place where all my previous projects get dumped to. Useful for when ever I need these again.
+# Random Projects
+ A place where all my previous projects get dumped to. Useful for when ever I need these again or to showcase
 
- None of these are useful to people who don't know what to do with it. It is simply a showcase.
+ Some are unfinished, some are somewhat in working condition.
