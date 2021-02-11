@@ -1,0 +1,81 @@
+{
+  "name": "luaScriptManager_roblox",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+
+      "$className": "ServerScriptService",
+
+      "ScriptManager": {
+
+        "$path": "src/server/manager"
+
+      },
+
+      "JESM Dev Loader": {
+
+        "$path": "src/server/loader"
+
+      }
+    },
+
+    "Workspace": {
+
+      "$className": "Workspace",
+
+      "$properties": {
+        "FilteringEnabled": true
+      },
+
+      "Baseplate": {
+        "$className": "Part",
+        "$properties": {
+          "Anchored": true,
+          "Color": [
+            0.38823,
+            0.37254,
+            0.38823
+          ],
+          "Locked": true,
+          "Position": [
+            0,
+            -10,
+            0
+          ],
+          "Size": [
+            512,
+            20,
+            512
+          ]
+        }
+      }
+    },
+
+    "Lighting": {
+
+      "$className": "Lighting",
+
+      "$properties": {
+        "Ambient": [
+          0,
+          0,
+          0
+        ],
+        "Brightness": 2,
+        "GlobalShadows": true,
+        "Outlines": false,
+        "Technology": "Voxel"
+      }
+    },
+
+    "SoundService": {
+
+      "$className": "SoundService",
+
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}
